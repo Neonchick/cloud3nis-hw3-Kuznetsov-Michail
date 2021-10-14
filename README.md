@@ -1,1 +1,1 @@
-# cloud3nis-hw3-Kuznetsov-Michail
+# Домашняя работа 3. Приложение для заметок.
